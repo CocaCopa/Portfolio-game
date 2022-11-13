@@ -1,3 +1,3 @@
 # Portfolio-game
 
-#prepei na doulepsei
+#prepei na doulepseis
